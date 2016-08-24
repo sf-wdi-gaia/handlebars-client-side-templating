@@ -1,5 +1,8 @@
 var data = {
-  course: "WDI",
+  school: "General Assembly",
+  city: "San Francisco",
+  course: "Web Development Immersive",
+  course_abbreviation: "WDI",
   cohort: 31,
   room: 4,
   github_schedule: "https://github.com/sf-wdi-31/schedule",
