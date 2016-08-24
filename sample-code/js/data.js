@@ -5,7 +5,7 @@ var data = {
   course_abbreviation: "WDI",
   cohort: 31,
   room: 4,
-  github_schedule: "https://github.com/sf-wdi-31/schedule",
+  schedule_url: "https://github.com/sf-wdi-31/schedule",
   developers:[
     {
       first_name: "Lola",
