@@ -39,16 +39,16 @@
           <h2>Developers</h2>
           <ul id="developers-list" class="list-group">
             <!-- sample structure for a list item -->
-            <li class="list-group-item">
+            <!-- <li class="list-group-item">
               <a href="https://www.github.com/bobloblaw" target="_blank"><strong>Bob Loblaw</strong></a>
-            </li>
+            </li> -->
             <!-- handlebars template for inside of developers list -->
             <script id="developer-li-template" type="text/x-handlebars-template">
-              {{#each developers}}
+
                 <li class="list-group-item">
                   <a href="https://www.github.com/{{github_username}}" target="_blank"><strong>{{first_name}} {{last_name}}</strong></a>
                 </li>
-              {{/each}}
+              
             </script>
           </ul>
         </div>

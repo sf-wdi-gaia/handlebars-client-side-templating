@@ -23,8 +23,8 @@ var data = {
       github_username: "cabrown91"
     },
     {
-      last_name: "Misha",
-      first_name: "LeClair",
+      first_name: "Misha",
+      last_name: "LeClair",
       github_username: "sfnewzgirl"
     },
     {
@@ -71,7 +71,7 @@ var data = {
     first_name: "Jason",
       last_name: "Kim",
       github_username: "jckkim"
-    }, 
+    },
     {
       first_name: "Michael",
       last_name: "Rogachevsky",
@@ -102,7 +102,7 @@ var data = {
       first_name: "Andrew",
       github_username: "giants415"
     }
-  
+
   ],
   instructional_team: [
     {
