@@ -1,0 +1,25 @@
+body {
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #BADA55; /* Sanity Check! */
+}
+
+h1 {
+  margin: 10vh 0 5vh 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+a {
+  color: #5AD;
+}
+
+
+.where p {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
