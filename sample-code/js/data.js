@@ -3,19 +3,11 @@ var data = {
   city: "San Francisco",
   course: "Web Development Immersive",
   course_abbreviation: "WDI",
-  cohort: 31,
-  room: 4,
-  github_schedule: "https://github.com/sf-wdi-31/schedule",
   developers:[
     {
       first_name: 'Sam',
       last_name: 'Darbonne',
-      github_username: 'samdarbonne',
-      height: 6,
-      status: {
-        loser: false,
-        married: false
-      }
+      github_username: 'samdarbonne'
     },
     {
       first_name: "Alicia",
@@ -101,29 +93,6 @@ var data = {
       last_name: "Vinocur",
       first_name: "Andrew",
       github_username: "giants415"
-    }
-  
-  ],
-  instructional_team: [
-    {
-      last_name: "Fauver",
-      first_name: "Cory",
-      github_username: "cofauver"
-    },
-    {
-      last_name: "Tsangaris",
-      first_name: "Ilias",
-      github_username: "iliastsangaris"
-    },
-    {
-      last_name: "Veenstra",
-      first_name: "Brianna",
-      github_username: "bgveenstra"
-    },
-    {
-      last_name: "Laguardia",
-      first_name: "Matt",
-      github_username: "mattlaguardia"
     }
   ]
 };
