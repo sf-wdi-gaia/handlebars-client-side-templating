@@ -40,7 +40,7 @@ Templating will be a less error-prone, more efficient way to structure elements 
 1. So far, we've been using jQuery to append HTML strings to the DOM when we have data to display in the browser. This can get really long and messy. Here's an example from an app that displays spotify data:
 
   ```javascript
-  // construct track HTML to display
+  // construct HTML to display
   var $trackHtml = '<div class="row"><div class="col-xs-4">' +
   '<img src="' + result.album.images[0].url + '" class="img-responsive"></div>' +
   '<div class="col-xs-8"><p><strong>' + result.name + '</strong> by ' +
