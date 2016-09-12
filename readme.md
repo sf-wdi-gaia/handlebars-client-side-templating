@@ -1,5 +1,6 @@
 <!--
 Location: SF
+credit: https://github.com/sf-wdi-21/notes/blob/master/week-02/day-03-jquery-templating/html-templating/readme.md
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
