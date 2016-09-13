@@ -77,7 +77,7 @@ Think of a **template** function as a *mold*. Handlebars creates it for us from 
 
 ### Explore Handlebars
 
-We'll use the [sample-code](./sample-code) as our starting point.
+We'll use the [starter-code](./starter-code) as our starting point.
 
 ### What is happening in `index.html`?
 
