@@ -123,7 +123,7 @@ We'll use the [sample-code](./sample-code) as our starting point.
   </ul>
   ```
 
-**Sculpt in clay**
+**Sculpt**
 
 4) Make a `script` tag with a descriptive `id` and with `type="text/x-handlebars-template"` (Handlebars needs this).
 
