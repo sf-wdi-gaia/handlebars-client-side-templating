@@ -235,4 +235,5 @@ Follow the steps above carefully!
 
 ### Additional Resources
 
-* <a href="http://handlebarsjs.com" target="_blank">Handlebars.js</a>
+* [Handlebars.js](http://handlebarsjs.com)
+* [Client-side vs Server-side rendering](https://www.quora.com/What-are-the-tradeoffs-of-client-side-rendering-vs-server-side-rendering#fduQWO)
