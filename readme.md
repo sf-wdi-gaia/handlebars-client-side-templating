@@ -141,7 +141,7 @@ We'll use the [starter-code](./starter-code) as our starting point.
   <script id="developer-li-template" type="text/x-handlebars-template">
     {{#each developers}}
       <li class="list-group-item">
-        <a href="https://www.github.com/{{github_username}}" target="_blank"><strong>{{first_name}} {{last_name}}</strong></a>
+        <a href="https://www.github.com/{{githubUsername}}" target="_blank"><strong>{{firstName}} {{lastName}}</strong></a>
       </li>
     {{/each}}
   </script>
